@@ -27,7 +27,7 @@ Through this project, I gained hands-on experience with:
 
 ## 📸 Screenshots
 
-![Screenshot](public/screenshot_1.png)
+![Screenshot](public/Screenshot_1.png)
 
 ### 🌍 Live Demo
 
